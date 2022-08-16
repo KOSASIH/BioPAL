@@ -5,6 +5,7 @@
 [![PyPI - License](https://img.shields.io/pypi/l/biopal)](https://pypi.org/project/biopal)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/biopal)](https://pypi.org/project/biopal)
 [![Codacy Security Scan](https://github.com/KOSASIH/BioPAL/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/BioPAL/actions/workflows/codacy.yml)
+[![CodeQL](https://github.com/KOSASIH/BioPAL/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/BioPAL/actions/workflows/codeql-analysis.yml)
 
 
 The BIOMASS Product Algorithm Laboratory hosts official tools for processing and analysing ESA\'s BIOMASS mission data.
